@@ -1,0 +1,16 @@
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.csproj.AssemblyReference.cache
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.AssemblyInfoInputs.cache
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.AssemblyInfo.cs
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.csproj.CoreCompileInputs.cache
+E:\ArraysDemo\bin\Debug\net5.0\ArraysDemo.exe
+E:\ArraysDemo\bin\Debug\net5.0\ArraysDemo.deps.json
+E:\ArraysDemo\bin\Debug\net5.0\ArraysDemo.runtimeconfig.json
+E:\ArraysDemo\bin\Debug\net5.0\ArraysDemo.runtimeconfig.dev.json
+E:\ArraysDemo\bin\Debug\net5.0\ArraysDemo.dll
+E:\ArraysDemo\bin\Debug\net5.0\ref\ArraysDemo.dll
+E:\ArraysDemo\bin\Debug\net5.0\ArraysDemo.pdb
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.dll
+E:\ArraysDemo\obj\Debug\net5.0\ref\ArraysDemo.dll
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.pdb
+E:\ArraysDemo\obj\Debug\net5.0\ArraysDemo.genruntimeconfig.cache
